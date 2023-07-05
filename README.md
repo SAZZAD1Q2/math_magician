@@ -66,6 +66,7 @@
 ### Key Features <a name="key-features"></a>
 
 
+
 - **[REACT]**
 - **[JavaScript]**
 - **[Webpack]**
@@ -75,7 +76,6 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
 
 Git clone https://https://github.com/SAZZAD1Q2/math_magician.git
 Run in your browser
@@ -104,6 +104,7 @@ npm install
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### deployment
+
 You can use the online version of my work. Here is the link of online version: https://github.com/SAZZAD1Q2/math_magician.git/
 
 <!-- AUTHORS -->
