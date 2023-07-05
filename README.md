@@ -28,7 +28,7 @@
 
 # 📖 math_magician <a name="math_magician"></a>
 
-> It is a math_magician project. I make this to setup the project.
+> It is a math_magician project. I make this to create the project's components.
 
 **math_magician** is a Microverse assined project. In this project I will apply React step by step.
 
