@@ -66,8 +66,8 @@
 ### Key Features <a name="key-features"></a>
 
 
-- **[HTML]**
-- **[Css]**
+
+- **[REACT]**
 - **[JavaScript]**
 - **[Webpack]**
 
@@ -76,7 +76,6 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
 
 Git clone https://github.com/SAZZAD1Q2/math_magician.git
 Run in your browser
@@ -105,7 +104,8 @@ npm install
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### deployment
-You can use the online version of my work. Here is the link of online version: https://sazzad1q2.github.io/math_magician/
+
+You can use the online version of my work. Here is the link of online version: https://github.com/SAZZAD1Q2/math_magician.git/
 
 <!-- AUTHORS -->
 
@@ -114,7 +114,7 @@ You can use the online version of my work. Here is the link of online version: h
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/SAZZAD1Q2/math_magician)
+- GitHub: [@githubhandle](https://github.com/SAZZAD1Q2/math_magician.git)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/md-sazzad-hossain-054720257/)
 
 
@@ -153,4 +153,3 @@ I would like to thank Microverse for this inspiration.
 
 This project is [MIT](./LICENSE) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
