@@ -77,7 +77,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-Git clone https://https://github.com/SAZZAD1Q2/math_magician.git
+Git clone https://github.com/SAZZAD1Q2/math_magician.git
 Run in your browser
 
 ### Prerequisites
