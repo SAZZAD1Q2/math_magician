@@ -2,8 +2,6 @@ import React from 'react';
 // eslint-disable-next-line import/extensions
 import Calculator from './components/calculator';
 
-import './App.css';
-
 function App() {
   return (
     <div className="App">
