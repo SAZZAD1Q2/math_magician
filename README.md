@@ -152,4 +152,3 @@ I would like to thank Microverse for this inspiration.
 
 This project is [MIT](./LICENSE) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
