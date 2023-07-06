@@ -33,9 +33,12 @@ button {
   background-color: #c8c6c6;
 }
 
-.numberZero {
+.zeroDigitButton {
   background-color: #c8c6c6;
+  width: 312px;
+  grid-column: span 2;
 }
+
 
 .operator {
   background-color: #ff9800;
