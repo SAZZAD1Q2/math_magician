@@ -28,36 +28,36 @@
 
 # 📖 math_magician <a name="math_magician"></a>
 
-> It is a math_magician project. I make this to create the project's components.
+> It is a math_magician project. I make some changes so that the math operation works properly in my calculator.
 
 **math_magician** is a Microverse assined project. In this project I will apply React step by step.
 
 ## 🛠 Built With <a name="built-with"></a>
-<li>Html</li>
-<li>Css</li>
+<li>React</li>
+<li>Components</li>
 <li>JavaScript</li>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 
 <details>
-  <summary>HTML</summary>
+  <summary>React</summary>
   <ul>
-    <li><a href="https://reactjs.org/">css</a></li>
+    <li><a href="https://reactjs.org/">react</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Js</summary>
+  <summary>Event</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Animation</a></li>
+    <li><a href="https://expressjs.com/">Event</a></li>
   </ul>
 </details>
 
 <details>
-<summary>Html</summary>
+<summary>Components</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">Css</a></li>
+    <li><a href="https://www.postgresql.org/">Components</a></li>
   </ul>
 </details>
 
