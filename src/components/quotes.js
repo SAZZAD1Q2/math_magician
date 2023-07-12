@@ -32,14 +32,14 @@ function Quote() {
   }, []);
 
   if (isLoading) {
-    return <p className="loader">Loading wait Please...</p>;
+    return <p className="loader" style={{ fontSize: '30px', margin: '180px 0 0 220px' }}>Loading wait Please...</p>;
   }
 
   if (isError) {
     return <p className="errorLoading">Error. An error occurred.</p>;
   }
 
-  return <p className="quoteText">{quote}</p>;
+  return <p className="quoteText" style={{ fontSize: '30px', margin: '180px 120px 0 120px' }}>{quote}</p>;
 }
 
 export default Quote;
