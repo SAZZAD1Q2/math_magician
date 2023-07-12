@@ -1,24 +1,17 @@
 import React from 'react';
-import styles from '../styles/Home.module.css';
+import styles from '../style/Home.module.css';
 
 function Home() {
   return (
     <>
       <div className={styles.welcome}>
-        <h1>welcome to our home page</h1>
+        <h1>welcome to My home page</h1>
         <p>
-          Founded in 2020, Mathmagicians focuses on teaching competition math
-          to middle school students or below.
-          We hope to help students do well in competitions and inspire
-          them to keep learning. We are actively looking to expand our team of tutors to
-          better serve the students and give back to the community.
+          The Math Magician App is a groundbreaking educational tool.
         </p>
         <p>
-          As part of our efforts to preserve Flash games we used a Flash
-          emulator to keep Math Magician playable for you.
-          Flash is not supported anymore by the major browsers,
-          but our emulator avoids all the security issues related to Flash.
-          Originally Math Magician appeared on the website of the Oswego City School District.
+          One of the key features of the Math Magician App is its Quality.
+
         </p>
       </div>
 

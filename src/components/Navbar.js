@@ -7,27 +7,29 @@ const links = [
   { path: '/quotes', name: 'Quote' },
 ];
 
-const logoStyles = {
+const logos = {
   textDecoration: 'none',
   color: 'black',
   fontSize: 25,
   letterSpacing: 5,
   marginLeft: 20,
+  fontWeight: 'bold',
+  textTransform: 'uppercase',
 };
 
 function Navbar() {
   return (
     <>
-      <div className="navbar">
-        <Link to="/" style={logoStyles}>Math Magicians</Link>
+      <div className="navbar" style={{ backgroundColor: '#f2f3f2', padding: '8px' }}>
+        <Link to="/" style={logos}>Math Magicians</Link>
         <ul className="nav-items">
           {
-        links.map((link) => (
-          <li key={link.name}>
-            <Link to={link.path} style={{ textDecoration: 'none', color: 'black' }}>{link.name}</Link>
-          </li>
-        ))
-    }
+            links.map((link) => (
+              <li key={link.name}>
+                <Link to={link.path} style={{ textDecoration: 'none', color: 'black', margin: '0 10px' }}>{link.name}</Link>
+              </li>
+            ))
+          }
         </ul>
       </div>
     </>

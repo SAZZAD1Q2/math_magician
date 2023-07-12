@@ -1,0 +1,19 @@
+.loader {
+    font-size: 28px;
+    text-align: center;
+    color: #888888;
+  }
+  
+  .errorLoading {
+    font-size: 18px;
+    text-align: center;
+    color: red;
+  }
+  
+  .quoteText {
+    font-size: 34px;
+    text-align: center;
+    color: #333333;
+    margin: 20px;
+  }
+  
