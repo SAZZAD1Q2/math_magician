@@ -1,0 +1,29 @@
+.welcome {
+    margin: 8% 15% 8% 10%;
+    line-height: 1.2;
+    text-align: center;
+  }
+  
+  .welcome h1 {
+    font-size: 48px;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+    color: #333;
+    font-weight: bold;
+    letter-spacing: 2px;
+  }
+  
+  .welcome p {
+    font-size: 22px;
+    line-height: 30px;
+    color: #555;
+  }
+  
+  .welcome p:first-of-type {
+    margin-bottom: 30px;
+  }
+  
+  .welcome p:last-of-type {
+    margin-top: 30px;
+  }
+  
