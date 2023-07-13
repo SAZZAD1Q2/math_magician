@@ -34,8 +34,19 @@ const Calculator = () => {
 
   return (
     <div className="calculator">
-      <Screen display={display} />
-      <div className="buttons">{renderButtons()}</div>
+      <div className="left-container">
+        <div className="title-container">
+          <span className="title">Let&apos;s do some math!</span>
+        </div>
+      </div>
+      <div className="right-container">
+        <div className="calculator-content">
+          <div className="calculator-buttons">
+            <Screen display={display} />
+            <div className="buttons">{renderButtons()}</div>
+          </div>
+        </div>
+      </div>
     </div>
   );
 };
