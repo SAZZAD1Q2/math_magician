@@ -10,18 +10,17 @@ const links = [
 const logos = {
   textDecoration: 'none',
   color: 'black',
-  fontSize: 25,
+  fontSize: 40,
   letterSpacing: 5,
-  marginLeft: 20,
+  marginLeft: 35,
   fontWeight: 'bold',
-  textTransform: 'uppercase',
 };
 
 function Navbar() {
   return (
     <>
       <div className="navbar" style={{ backgroundColor: '#f2f3f2', padding: '8px' }}>
-        <Link to="/" style={logos}>Math Magicians</Link>
+        <Link to="/" style={logos}>MATH MAGICIANS</Link>
         <ul className="nav-items">
           {
             links.map((link) => (
