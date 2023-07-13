@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import '../style/Quotes.module.css';
 
 function Quote() {
   const [quote, setQuote] = useState('');
@@ -31,14 +32,14 @@ function Quote() {
   }, []);
 
   if (isLoading) {
-    return <p className="loader">Loading Please wait</p>;
+    return <p className="loader" style={{ fontSize: '30px', margin: '180px 0 0 220px' }}>Loading wait Please...</p>;
   }
 
   if (isError) {
-    return <p className="errorLoading">Error. Some error occurs.</p>;
+    return <p className="errorLoading">Error. An error occurred.</p>;
   }
 
-  return <p>{quote}</p>;
+  return <p className="quoteText" style={{ fontSize: '30px', margin: '180px 120px 0 120px' }}>{quote}</p>;
 }
 
 export default Quote;

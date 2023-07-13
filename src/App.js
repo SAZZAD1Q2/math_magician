@@ -1,16 +1,20 @@
-import React from 'react';
-// eslint-disable-next-line import/extensions
+import './App.css';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Calculator from './components/calculator';
 import Quote from './components/quotes';
+import Layout from './components/GenLayout';
+import Home from './components/Home';
 
 function App() {
   return (
-    <div className="App">
-      <Calculator />
-      <div className="content">
-        <Quote />
-      </div>
-    </div>
+    <Router>
+      <Layout />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/calculator" element={<Calculator />} />
+        <Route path="/quotes" element={<Quote />} />
+      </Routes>
+    </Router>
   );
 }
 

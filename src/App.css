@@ -1,0 +1,32 @@
+.calculator-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.calc-btns {
+  display: flex;
+  flex-direction: column;
+}
+
+.error {
+  color: red;
+}
+
+.loading {
+  color: green;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-items {
+  display: flex;
+  margin-right: 74px;
+  list-style: none;
+  gap: 16px;
+  font-size: 22px;
+}

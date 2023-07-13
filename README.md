@@ -28,7 +28,7 @@
 
 # 📖 math_magician <a name="math_magician"></a>
 
-> It is a math_magician project. I make some changes so that the math operation works properly in my calculator. Here I used Quote Api to fetch quotes.
+> It is a math_magician project. I make some changes so that the math operation works properly in my calculator. Here I created the full layout of my website.
 
 **math_magician** is a Microverse assined project. In this project I will apply React step by step.
 
@@ -50,7 +50,7 @@
 <details>
   <summary>Event</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Event</a></li>
+    <li><a href="https://expressjs.com/">Route</a></li>
   </ul>
 </details>
 
