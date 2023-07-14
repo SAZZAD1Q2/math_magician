@@ -105,7 +105,7 @@ npm install
 
 ### deployment
 
-You can use the online version of my work. Here is the link of online version: https://github.com/SAZZAD1Q2/math_magician.git/
+You may use the online version of my work. Here is the link of online version: https://github.com/SAZZAD1Q2/math_magician.git/
 
 <!-- AUTHORS -->
 
