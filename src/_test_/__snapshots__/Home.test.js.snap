@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home should render the component 1`] = `
+<div
+  className="welcome"
+>
+  <h1>
+    welcome to My home page
+  </h1>
+  <p>
+    The Math Magician App is a groundbreaking educational tool.
+  </p>
+  <p>
+    One of the key features of the Math Magician App is its Quality.
+  </p>
+</div>
+`;
