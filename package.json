@@ -62,6 +62,14 @@
   "jest": {
     "moduleNameMapper": {
       "\\.(css|less)$": "identity-obj-proxy"
-    }
+    },
+    "testEnvironment": "jsdom",
+    "testEnvironmentOptions": {
+      "resources": "usable"
+    },
+    "transformIgnorePatterns": [
+      "/node_modules/",
+      "\\.module\\.css$"
+    ]
   }
 }
