@@ -98,14 +98,16 @@ open it then to your browser.
 ### Install
 
 Install this project with:
-Github or git
-npm install
+Github or git or vs code. For this open your terminal and proceed some steps:
+a. Install node package using the command : npm install
+b. Then run the website using the command : npm start
+c. Test the code using jest snapShots and for this use the Command : npx jest
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### deployment
 
-You can use the online version of my work. Here is the link of online version: https://github.com/SAZZAD1Q2/math_magician.git/
+You may use the online version of my work. Here is the link of online version: https://github.com/SAZZAD1Q2/math_magician.git/
 
 <!-- AUTHORS -->
 
