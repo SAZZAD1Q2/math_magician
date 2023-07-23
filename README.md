@@ -107,7 +107,7 @@ c. Test the code using jest snapShots and for this use the Command : npx jest
 
 ### deployment
 
-You may use the online version of my work. Here is the link of online version: https://github.com/SAZZAD1Q2/math_magician.git/
+You may use the online version of my work. Here is the link of online version: [Link](https://front-end-qh8j.onrender.com)
 
 <!-- AUTHORS -->
 
